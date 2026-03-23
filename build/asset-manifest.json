@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MONISH131104/ipl-battle/static/css/main.4c6373e0.css",
+    "main.js": "/MONISH131104/ipl-battle/static/js/main.3e366674.js",
+    "index.html": "/MONISH131104/ipl-battle/index.html",
+    "main.4c6373e0.css.map": "/MONISH131104/ipl-battle/static/css/main.4c6373e0.css.map",
+    "main.3e366674.js.map": "/MONISH131104/ipl-battle/static/js/main.3e366674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c6373e0.css",
+    "static/js/main.3e366674.js"
+  ]
+}
