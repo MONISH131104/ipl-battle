@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ipl-battle/static/css/main.121573a8.css",
+    "main.js": "/ipl-battle/static/js/main.c0a4534d.js",
+    "index.html": "/ipl-battle/index.html",
+    "main.121573a8.css.map": "/ipl-battle/static/css/main.121573a8.css.map",
+    "main.c0a4534d.js.map": "/ipl-battle/static/js/main.c0a4534d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.121573a8.css",
+    "static/js/main.c0a4534d.js"
+  ]
+}
