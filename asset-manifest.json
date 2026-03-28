@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ipl-battle/static/css/main.29f661a9.css",
-    "main.js": "/ipl-battle/static/js/main.541ad008.js",
+    "main.js": "/ipl-battle/static/js/main.d187f18c.js",
     "index.html": "/ipl-battle/index.html",
     "main.29f661a9.css.map": "/ipl-battle/static/css/main.29f661a9.css.map",
-    "main.541ad008.js.map": "/ipl-battle/static/js/main.541ad008.js.map"
+    "main.d187f18c.js.map": "/ipl-battle/static/js/main.d187f18c.js.map"
   },
   "entrypoints": [
     "static/css/main.29f661a9.css",
-    "static/js/main.541ad008.js"
+    "static/js/main.d187f18c.js"
   ]
 }
